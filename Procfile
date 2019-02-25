@@ -1,1 +1,1 @@
-worker: python ninja.py
+worker: python bot.py
